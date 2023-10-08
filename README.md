@@ -32,3 +32,10 @@ Created a JavaScript program to calculate the individual's net salary.
 Collected inputs for basic salary and benefits.
 Calculated payee (tax), NHIF deductions, NSSF deductions, gross salary, and net salary using specified formulas.
 Displayed the results to the user
+Write a program that calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e., Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary.
+
+Steps Taken
+Created a JavaScript program to calculate the individual's net salary.
+Collected inputs for basic salary and benefits.
+Calculated payee (tax), NHIF deductions, NSSF deductions, gross salary, and net salary using specified formulas.
+Displayed the results to the user
